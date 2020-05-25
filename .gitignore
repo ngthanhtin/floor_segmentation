@@ -1,0 +1,11 @@
+/.vscode
+/__pycache__/
+/mrcnn/__pycache__/
+/mrcnn/__init.py__/
+*.csv
+/env/
+/build/
+/dist/
+/mask_rcnn.egg-info/
+/mask_rcnn_coco.h5
+/floor_mask_rcnn_model/*.h5
