@@ -30,6 +30,6 @@ class FloorConfig(Config):
     STEPS_PER_EPOCH = 1000
     VALIDATION_STEPS = 200
 
-class InferenceConfig(ClotheConfig):
+class InferenceConfig(FloorConfig):
     GPU_COUNT = 1
     IMAGES_PER_GPU = 1

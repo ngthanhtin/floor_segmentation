@@ -3,5 +3,5 @@ matplotlib
 imgaug
 opencv-python
 scikit-learn
-tensorflow==1.14
+tensorflow==1.15
 keras==2.0.8
